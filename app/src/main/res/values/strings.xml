@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sisesta">Insert Number</string>
+    <string name="miles">Miles to Kilometers</string>
+    <string name="kilometers">Kilometers to Miles</string>
+    <string name="convert">Convert</string>
+    <string name="clear">Clear</string>
+</resources>
